@@ -1,0 +1,21 @@
+
+body {
+    background-image: url("phil-goodwin-97782-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul {
+    float: left;
+}
+
+ul li{
+    display: inline-block;
+}
+ul li a{
+    
+    color: #fff;
+    text-decoration: none;
+    background-color: rgba(8, 8, 212, 0.3);
+    border: 1px solid #fff;
+    padding: 5px 10px;
+}
