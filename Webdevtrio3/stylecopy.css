@@ -1,0 +1,49 @@
+
+body{
+
+    background-image: url('football2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+ul{
+    float: right;
+
+}
+
+ul li{
+    display: inline-block;
+}
+ul li a{
+
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    transition: 0.6s ease;
+
+}
+ul li a:hover{
+    background-color: #fff;
+
+    color: #000;
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+}
+h1{
+    color: #fff;
+    font-size: 50px
+
+}
+iframe{
+
+      position: absolute;
+      top: 30%;
+      left: 35%;
+
+}
